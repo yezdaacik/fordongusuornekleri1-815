@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\bin\Debug\for döngüsü örnek 1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\bin\Debug\for döngüsü örnek 1.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\bin\Debug\for döngüsü örnek 1.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\obj\Debug\for döngüsü örnek 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\obj\Debug\for döngüsü örnek 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\obj\Debug\for_döngüsü_örnek_1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\obj\Debug\for_döngüsü_örnek_1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\obj\Debug\for döngüsü örnek 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\obj\Debug\for döngüsü örnek 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\obj\Debug\for döngüsü örnek 1.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for döngüsü örnek 1\for döngüsü örnek 1\obj\Debug\for döngüsü örnek 1.pdb
